@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/node-js-promises#readme",
   "dependencies": {
-    "knex": "^0.10.0",
+    "knex": "^0.19.2",
     "pg": "^4.5.5"
   }
 }
